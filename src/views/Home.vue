@@ -51,6 +51,7 @@
 
 <script>
 export default {
+  //fuck
   name: "home",
   components: {}
 };
